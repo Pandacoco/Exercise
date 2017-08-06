@@ -1,6 +1,6 @@
-#03 Python Ex01
+# 03 Python Ex01
 
-####1. 在atom中输入以下文本，另存为“ex1.py”
+#### 1. 在atom中输入以下文本，另存为“ex1.py”
 
 ~~~
 print "Hello World!"
@@ -12,7 +12,7 @@ print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 ~~~
 
-####2. 打开terminal
+#### . 打开terminal
 
 ~~~
 python ex1.py
