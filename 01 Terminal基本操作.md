@@ -31,8 +31,6 @@ cd ..
 
 ###3.ls 列出当前目录下的子目录和文件
 
-![show](https://d17oy1vhnax1f7.cloudfront.net/items/0A3Q3u172A0o3k1C0r19/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202016-12-26%20%E4%B8%8B%E5%8D%8811.51.26.png?v=a14c1637)
-
 ls -la 显示更详细的目录信息
 
 ~~~
