@@ -1,4 +1,4 @@
-#02 python Ex0
+# 02 python Ex0
 1. 在terminal当中创建一个目录 python
 
 2. 在atom当中 输入“this is stuff”，另存为“test.txt”
