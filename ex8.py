@@ -9,3 +9,4 @@ print formatter % ("I had this thing.",
 "But it didn't sing.",
  "So I said goodnight."
 )
+
